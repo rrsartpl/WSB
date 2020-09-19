@@ -29,7 +29,7 @@
 
 3. (2 pkt) Napisz program, w którym wywołasz funkcję wykonującą dzielenie, która przyjmie 2 argumenty: 1. – dzielna, 2. – dzielnik. Wynik działania należy zwrócić przez pierwszy z argumentów (nie przez return).  
 
-(* 1 pkt) Dodatkowy punkt za przedstawienie więcej niż jednej metody zwracania wartości do funkcji.  
+   (* 1 pkt) Dodatkowy punkt za przedstawienie więcej niż jednej metody zwracania wartości do funkcji.  
 
 4. (4 pkt) Napisz program, który pozwoli użytkownikowi na wprowadzenie dowolnej (N) liczby liczb całkowitych (podawanej na początku) i który następnie wyświetli na ekranie: 
 
