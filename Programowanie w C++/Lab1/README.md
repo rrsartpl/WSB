@@ -32,6 +32,6 @@
 
 5. (4 pkt) Napisz program, który pozwoli użytkownikowi na wprowadzenie dowolnej (N) liczby liczb całkowitych (podawanej na początku) i który następnie wyświetli na ekranie: 
 
-..a Średnią arytmetyczną wszystkich wprowadzonych liczb.  
+.. Średnią arytmetyczną wszystkich wprowadzonych liczb.  
 
 ..Podawane liczby przechowuj w jednowymiarowej N-elementowej dynamicznej tablicy. **Pamiętaj**, zadbaj o sprawdzenie poprawności parametrów wejściowych (zarówno N jak i każdej z liczb) i w przypadku podania niepoprawnych wartości, poproś o ponowne ich wprowadzenie. 
