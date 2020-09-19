@@ -1,6 +1,6 @@
-## Laboratorium 1 – Podstawy 
+# Laboratorium 1 – Podstawy 
 
-# Poruszane tematy (linki do stron wikibooks): 
+## Poruszane tematy (linki do stron wikibooks): 
 
 * [Instrukcje warunkowe i iteracyjne](https://pl.wikibooks.org/wiki/C/Instrukcje_steruj%C4%85ce)
 
@@ -20,7 +20,7 @@
 
  
 
-# Zadania (10 pkt): 
+## Zadania (10 pkt): 
 
 1. (2 pkt) Napisz funkcję zwracającą nazwę dnia tygodnia, podając do niej numer dnia tygodnia. **Uwaga**, nie wolno użyć instrukcji _switch…case_ ani wielokrotnych instrukcji _if_. 
 
