@@ -25,7 +25,7 @@
 1. (2 pkt) Napisz funkcję zwracającą nazwę dnia tygodnia, podając do niej numer dnia tygodnia.
  **Uwaga**, nie wolno użyć instrukcji _switch…case_ ani wielokrotnych instrukcji _if_. 
 
-2. (2 pkt) Napisz jedną funkcję (nie dwie ani trzy!), która to będzie mogła przyjmować 1, 2 albo 3 argumenty typu całkowitego i zwracać ich wynik mnożenia. 
+2. (2 pkt) Napisz jedną funkcję (nie dwie ani trzy!), która to będzie mogła przyjmować 1, 2 albo 3 argumenty typu całkowitego i zwracać ich wynik mnożenia. _Podpowiedź_: Zapoznaj się z [Argumentami domyślnymi](https://pl.wikibooks.org/wiki/C%2B%2B/Przeci%C4%85%C5%BCanie_funkcji#Argumenty_domy%C5%9Blne)
 
 3. (2 pkt) Napisz program, w którym wywołasz funkcję wykonującą dzielenie, która przyjmie 2 argumenty: 1. – dzielna, 2. – dzielnik. Wynik działania należy zwrócić przez pierwszy z argumentów (nie przez return).  
 
