@@ -22,7 +22,8 @@
 
 ## Zadania (10 pkt): 
 
-1. (2 pkt) Napisz funkcję zwracającą nazwę dnia tygodnia, podając do niej numer dnia tygodnia. **Uwaga**, nie wolno użyć instrukcji _switch…case_ ani wielokrotnych instrukcji _if_. 
+1. (2 pkt) Napisz funkcję zwracającą nazwę dnia tygodnia, podając do niej numer dnia tygodnia.
+**Uwaga**, nie wolno użyć instrukcji _switch…case_ ani wielokrotnych instrukcji _if_. 
 
 2. (2 pkt) Napisz jedną funkcję (nie dwie ani trzy!), która to będzie mogła przyjmować 1, 2 albo 3 argumenty typu całkowitego i zwracać ich wynik mnożenia. 
 
@@ -34,4 +35,5 @@
 
    a) Średnią arytmetyczną wszystkich wprowadzonych liczb.  
 
-   Podawane liczby przechowuj w jednowymiarowej N-elementowej dynamicznej tablicy. **Pamiętaj**, zadbaj o sprawdzenie poprawności parametrów wejściowych (zarówno N jak i każdej z liczb) i w przypadku podania niepoprawnych wartości, poproś o ponowne ich wprowadzenie. 
+   Podawane liczby przechowuj w jednowymiarowej N-elementowej dynamicznej tablicy.
+   **Pamiętaj**, zadbaj o sprawdzenie poprawności parametrów wejściowych (zarówno N jak i każdej z liczb) i w przypadku podania niepoprawnych wartości, poproś o ponowne ich wprowadzenie. 
