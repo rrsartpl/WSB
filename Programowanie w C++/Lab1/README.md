@@ -35,5 +35,5 @@
 
    a) Średnią arytmetyczną wszystkich wprowadzonych liczb.  
 
-   Podawane liczby przechowuj w jednowymiarowej N-elementowej dynamicznej tablicy.
+   Podawane liczby przechowuj w jednowymiarowej N-elementowej [dynamicznej tablicy](https://pl.wikibooks.org/wiki/C%2B%2B/Zarz%C4%85dzanie_pami%C4%99ci%C4%85).
     **Pamiętaj**, zadbaj o sprawdzenie poprawności parametrów wejściowych (zarówno N jak i każdej z liczb) i w przypadku podania niepoprawnych wartości, poproś o ponowne ich wprowadzenie. 
