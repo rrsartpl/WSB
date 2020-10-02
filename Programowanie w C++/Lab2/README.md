@@ -1,6 +1,6 @@
 # Laboratorium 2 – Ciąg dalszy podstaw 
 
-## Poruszane tematy (linki do stron wikibooks): 
+## Poruszane tematy z Sylabusa: 
 
 * [Rekurencja](http://www.algorytm.edu.pl/rekurencja.html)
 
