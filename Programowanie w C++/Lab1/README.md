@@ -1,6 +1,6 @@
 # Laboratorium 1 – Podstawy 
 
-## Poruszane tematy (linki do stron wikibooks): 
+## Poruszane tematy z Sylabusa (linki do stron wikibooks): 
 
 * [Instrukcje warunkowe i iteracyjne](https://pl.wikibooks.org/wiki/C/Instrukcje_steruj%C4%85ce)
 
