@@ -18,7 +18,7 @@
 
 ## Zadania (10 pkt): 
 
-1. (1 pkt) (1 pkt) Używając [rekurencji](http://www.algorytm.edu.pl/rekurencja.html), napisz program wyliczający silnię na podstawie liczby całkowitej wprowadzonej przez użytkownika. 
+1. (1 pkt) Używając [rekurencji](http://www.algorytm.edu.pl/rekurencja.html), napisz program wyliczający silnię na podstawie liczby całkowitej wprowadzonej przez użytkownika. 
 
 2. (2 pkt) Zdefiniuj strukturę o nazwie _Student_ i polach _Imie_ (typu _string_) i _NrIndeksu_ (typu _int_). W programie zainicjuj strukturę swoimi wartościami. Następnie zdefiniuj zmienną typu _float_ do której zrzutuj _NrIndeksu_ (używając _static_cast<>_, a nie rzutowania "w stylu C") i podziel przez 97. Wynik wyświetl na ekranie. 
 
