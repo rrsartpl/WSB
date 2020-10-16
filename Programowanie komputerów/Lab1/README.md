@@ -34,9 +34,7 @@
    **Uwaga:** Wyświetl na ekranie podane informacje w jednej linii (nie wielu!).
 
 4. (2 pkt) Korzystając z klasy [*Math*](https://docs.microsoft.com/pl-pl/dotnet/api/system.math?view=netcore-3.1) wylicz następujące wyrażenie w programie i wyświetl zarówno jego dokładny wynik jak i wynik w zaokrągleniu do 2 miejsc po przecinku:
-
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;|&space;-&space;\frac{(2&space;\cdot&space;2&space;&plus;&space;3)}{&space;(\sqrt{225}&space;-&space;3^2)}&space;|" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_white&space;|&space;-&space;\frac{(2&space;\cdot&space;2&space;&plus;&space;3)}{&space;(\sqrt{225}&space;-&space;3^2)}&space;|" title="| - \frac{(2 \cdot 2 + 3)}{ (\sqrt{225} - 3^2)} |" /></a>
+<p style="text-align:center;"><a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;|&space;-&space;\frac{(2&space;\cdot&space;2&space;&plus;&space;3)}{&space;(\sqrt{225}&space;-&space;3^2)}&space;|" target="_blank"> <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;|&space;-&space;\frac{(2&space;\cdot&space;2&space;&plus;&space;3)}{&space;(\sqrt{225}&space;-&space;3^2)}&space;|" title="| - \frac{(2 \cdot 2 + 3)}{ (\sqrt{225} - 3^2)} |" /></a></p>
 
    **Uwaga:** Do potęgowania, pierwiastkowania, wartości bezwzględnej i zaokrąglania musisz użyć detykowanych funkcji z klasy [*Math*](https://docs.microsoft.com/pl-pl/dotnet/api/system.math?view=netcore-3.1).
 
