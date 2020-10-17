@@ -486,9 +486,7 @@
 
 12. **Parsowanie/Konwertowanie**
 
-    ```c#
-    //Rzutowanie 
-    
+    ```c#  
     // Konwertowanie łancucha znaków na liczbę
     string liczbaString = "123";
     int liczba = Int32.Parse(liczbaString);
