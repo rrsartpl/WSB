@@ -387,7 +387,7 @@
           Console.WriteLine(c);
       
       foreach(int element in tablicaIntow)
-          element += 100;						// Błąd kompilacji! Wartości kolekcji w pętli foreach są tylko do odczytu!
+          element += 100;  // Błąd kompilacji! Wartości kolekcji w pętli foreach są tylko do odczytu!
       ```
 
       
