@@ -81,8 +81,8 @@
    Console.WriteLine("Mój wiek to {0} lat", wiek);		// Wypisze: Mój wiek to 18 lat
    Console.WriteLine($"Mój wiek to {wiek} lat");		// Wypisze: Mój wiek to 18 lat
    
-   Console.Write('A');				// Wypisze tylko 'a' i nie przejdzie do nowej lini
-   Console.Write("la");			// 
+   Console.Write('A');				   // Wypisze tylko 'a' i nie przejdzie do nowej lini
+   Console.Write("la");			      // 
    Console.WriteLine(" ma kota");	// te trzy linie wypiszą na ekranie jedną linię: Ala ma kota
    ```
 
