@@ -1,5 +1,7 @@
 # Laboratorium 1
 
+Pomoc do zadań znajdą Państwo w sekcji [POMOC](https://github.com/MichalKrogulecki/WSB/tree/master/Programowanie%20komputer%C3%B3w/Pomoc)
+
 ## Zadania (10 pkt):
 
 1. (2 pkt) Napisz program, w którym w zależności od wartości zmiennej *liczba* typu *int* wypisze:
