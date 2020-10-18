@@ -1,5 +1,7 @@
 # POMOC
 
+Polecam zapoznanie się z książką: http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf 
+
 1. **Instalacja programu Visual Studio Community i tworzenie aplikacji "Hello World"**
 
    1. Wejdź na stronę https://visualstudio.microsoft.com/pl/vs/community/ i pobierz Visual Studio Community
